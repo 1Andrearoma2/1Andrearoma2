@@ -2,7 +2,7 @@
 <h3 align="center">A developer from Italy</h3>
 
 - 🔭 I’m currently working on **PolyPlay Arena**
-- 🏭 Working with **Wanderlust**
+- 🏭 Working with **Wanderlust🦊**
 
 - 🌱 I’m trying to learn **Java, JS, React**
 
