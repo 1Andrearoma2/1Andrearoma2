@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **My self!**
 - 🏭 Working with **Nobody**
 
-- 🌱 I’m trying to learn **Java, JS, React**
+- 🌱 I’m trying to learn **SQL, PHP, React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -61,8 +61,4 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a> 
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1andrearoma2&show_icons=true&locale=en&layout=compact" alt="1andrearoma2" />
 </p>
