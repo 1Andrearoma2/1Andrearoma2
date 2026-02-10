@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Andrearoma2</h1>
 <h3 align="center">A developer from Italy</h3>
 
-- 🔭 I’m currently working on **PolyPlay Arena**
-- 🏭 Working with **Wanderlust🦊**
+- 🔭 I’m currently working on **My self!**
+- 🏭 Working with **Nobody**
 
 - 🌱 I’m trying to learn **Java, JS, React**
 
